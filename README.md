@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Ozioma 
-- 👀 I’m interested in data science and finance
-- 🌱 I’m currently learning data science and its financial applications
-- 💞️ I’m looking to collaborate on projcts to develop my skills and grow my network
-- ⚡ Fun fact: I only love to cook when I'm trying something for the first time.  
+- 🌱 I’m currently learning network engineering and cloud engineering 
 
 <!---
 OziChristine/OziChristine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
